@@ -1,1 +1,1 @@
-# Canep or # Minesweeper
+# Canep or Minesweeper
